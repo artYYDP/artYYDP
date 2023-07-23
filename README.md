@@ -15,6 +15,8 @@
 
 - 📄 Sobre minhas experiências, acesse o meu <a href="https://linkedin.com/in/arthurdiegopereira">**LinkedIn**</a>
 
+- 😄 Gostou? Te ajudei com algo? Que tal me <a href="https://mepagaumcafe.com.br/arthurdiegopereira/">**pagar um café?**</a> ☕
+
 <h3 align="left">Minhas Redes Sociais</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arthurdiegopereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthurdiegopereira" height="25" width="25" /></a>&nbsp; <a href="https://instagram.com/arthurdiegopereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthurdiegopereira" height="25" width="25" /></a>

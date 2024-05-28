@@ -7,7 +7,7 @@
 
 - 🔭 Trabalho na <a href="https://github.com/vert-brasil">**Vert**</a> como **Analista de BI SAS**
 
-- 🌱 Atualmente estou aprendendo **Python**
+- 🌱 Atualmente estou aprendendo **SAS Advanced Programming**
 
 - 💬 Me pergunte sobre **Power BI, Qlick Sense, SAS, PHP, HTML, CSS, Javascript, SQL, Photoshop e Premiere**
 

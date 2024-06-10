@@ -33,3 +33,5 @@
 <img src="https://img.shields.io/badge/Javascript-Icon?style=for-the-badge&logo=javascript&color=282C34" alt="JavaScript logo" title="JavaScript" height="25" />
 <img src="https://img.shields.io/badge/VSStudio-Icon?style=for-the-badge&logo=visualstudio&logoColor=%230278cb&color=282C34" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 </p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artYYDP&theme=transparent&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)

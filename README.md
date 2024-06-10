@@ -1,7 +1,5 @@
-<h1 align="center">Olá 👋, eu sou o Arthur e bem-vindo ao meu GitHub!</h1>
-<h3 align="center">Sou Analista de Business Intelligence e Programador PHP</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artyydp&label=Profile%20views&color=0e75b6&style=flat" alt="artyydp" /> </p>
+<h1>👨‍💻 Sobre mim</h1>
+<h3>Sou Analista de Business Intelligence e Programador PHP</h3>
 
 - ✝️ Sou Cristão
 
@@ -17,16 +15,21 @@
 
 - 😄 Gostou? Te ajudei com algo? Que tal me <a href="https://mepagaumcafe.com.br/arthurdiegopereira/">**pagar um café?**</a> ☕
 
-<h3 align="left">Minhas Redes Sociais</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arthurdiegopereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthurdiegopereira" height="25" width="25" /></a>&nbsp; <a href="https://instagram.com/arthurdiegopereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthurdiegopereira" height="25" width="25" /></a>
+<h3>Minhas Redes Sociais</h3>
+<p>
+<a href="https://www.linkedin.com/in/arthurdiegopereira/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.instagram.com/arthurdiegopereira/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
-
-<h3 align="left">Linguagens e Ferramentas</h3>
-
-
-<p align="left"> 
-    <a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/a3ca9ab3f109ea86b3f48844c0a8666073176af2/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/></a>&nbsp; <a href="https://www.qlik.com/pt-br/products/qlik-sense" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354242/qlik.svg" alt="qlick" width="40" height="40"/></a>&nbsp; <a href="https://www.sas.com/pt_br/home.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="sas" width="40" height="40"/></a>&nbsp; <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40"/></a>&nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></a>&nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp; <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>&nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp; <a href="https://www.adobe.com/br/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="photoshop" width="40" height="40"/></a>&nbsp; <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></a>&nbsp;</p>
-
-<!--<h3 align="left">Me pague um café</h3>
-<p><a href="https://ko-fi.com/arthurdiego"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="arthurdiego" /></a></p><br><br>-->
+<h3>Linguagens e Ferramentas</h3>
+<p>
+<img src="https://img.shields.io/badge/SAS-Icon?style=for-the-badge&logo=sas&color=%23007cc2" alt="SAS logo" title="SAS" height="25" />
+<img src="https://img.shields.io/badge/PowerBI-Icon?style=for-the-badge&logo=powerbi&color=282C34" alt="PowerBI logo" title="PowerBI" height="25" />
+<img src="https://img.shields.io/badge/Qlik-Icon?style=for-the-badge&logo=qlik&logoColor=%23009c4d&color=282C34" alt="QlikSense logo" title="QlikSense" height="25" />
+<img src="https://img.shields.io/badge/Python-Icon?style=for-the-badge&logo=python&color=282C34" alt="Python logo" title="Python" height="25" />
+<img src="https://img.shields.io/badge/SQL-Icon?style=for-the-badge&logo=microsoftsqlserver&color=282C34" alt="MySQL logo" title="SQL" height="25" />
+<img src="https://img.shields.io/badge/PHP-Icon?style=for-the-badge&logo=php&color=282C34" alt="PHP logo" title="PHP" height="25" />
+<img src="https://img.shields.io/badge/HTML-Icon?style=for-the-badge&logo=html5&color=282C34" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/CSS-Icon?style=for-the-badge&logo=css3&logoColor=%232d53e5&color=282C34" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/Javascript-Icon?style=for-the-badge&logo=javascript&color=282C34" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/VSStudio-Icon?style=for-the-badge&logo=visualstudio&logoColor=%230278cb&color=282C34" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+</p>

@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/VSCode-Icon?style=for-the-badge&logo=visualstudiocode&logoColor=%232e7db6&color=282C34" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 </p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artYYDP&theme=transparent&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artYYDP&theme=transparent&show_icons=true&hide=contribs,prs)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artYYDP&repo=SAS-Geo&theme=dark)](https://github.com/artYYDP/SAS_Geo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artYYDP&repo=sas-viya-codes&theme=dark)](https://github.com/artYYDP/sas-viya-codes)

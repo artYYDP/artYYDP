@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/HTML-Icon?style=for-the-badge&logo=html5&color=282C34" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS-Icon?style=for-the-badge&logo=css3&logoColor=%232d53e5&color=282C34" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/Javascript-Icon?style=for-the-badge&logo=javascript&color=282C34" alt="JavaScript logo" title="JavaScript" height="25" />
-<img src="https://img.shields.io/badge/VSCode-Icon?style=for-the-badge&logo=visualstudiocode&color=282C34" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+<img src="https://img.shields.io/badge/VSCode-Icon?style=for-the-badge&logo=visualstudiocode&logoColor=%232e7db6&color=282C34" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 </p>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artYYDP&theme=transparent&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)

@@ -36,5 +36,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artYYDP&theme=transparent&show_icons=true&hide=contribs,prs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artYYDP&repo=SAS-Geo&theme=dark)](https://github.com/artYYDP/SAS_Geo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artYYDP&repo=SAS-Geo&theme=dark)](https://github.com/artYYDP/SAS-Geo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artYYDP&repo=sas-viya-codes&theme=dark)](https://github.com/artYYDP/sas-viya-codes)

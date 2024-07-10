@@ -15,7 +15,7 @@
 
 - 😄 Gostou? Te ajudei com algo? Que tal me <a href="https://mepagaumcafe.com.br/arthurdiegopereira/">**pagar um café?**</a> ☕
 
-<h3>Meus Certificados</h3>h3>
+<h3>Meus Certificados</h3>
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 

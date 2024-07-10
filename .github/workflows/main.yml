@@ -1,4 +1,4 @@
-name: Atualização de Certificados
+name: Update badges
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
     - cron: "0 2 * * *"
 jobs:
   update-readme:
-    name:  Atualização do Readme com Certificados
+    name:  Update Readme with badges
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme

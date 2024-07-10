@@ -15,6 +15,10 @@
 
 - 😄 Gostou? Te ajudei com algo? Que tal me <a href="https://mepagaumcafe.com.br/arthurdiegopereira/">**pagar um café?**</a> ☕
 
+<h3>Meus Certificados</h3>h3>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <h3>Minhas Redes Sociais</h3>
 <p>
 <a href="https://www.linkedin.com/in/arthurdiegopereira/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 

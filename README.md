@@ -1,13 +1,13 @@
 <h1>👨‍💻 Sobre mim</h1>
-<h3>Sou Analista de Business Intelligence e Programador PHP</h3>
+<h3>Sou Analista de Business Intelligence e Desenvolvedor</h3>
 
 - ✝️ Sou Cristão
 
 - 🔭 Trabalho na <a href="https://github.com/vert-brasil">**Vert**</a> como **Analista de BI SAS**
 
-- 🌱 Atualmente estou aprendendo **SAS Advanced Programming**
+- 🌱 Atualmente estou aprendendo **SAS Advanced Programming**, **SAS Advanced Job Execution** e **JavaScript (Vue)**
 
-- 💬 Me pergunte sobre **Power BI, Qlick Sense, SAS, PHP, HTML, CSS, Javascript, SQL, Photoshop e Premiere**
+- 💬 Me pergunte sobre **SAS, Power BI, Qlick Sense, PHP, HTML, CSS, Javascript, SQL, Photoshop e Premiere**
 
 - 📫 Você me encontra através do email **arthur.diego.pereira@gmail.com**
 

@@ -13,7 +13,7 @@
 
 - 📄 Sobre minhas experiências, acesse o meu <a href="https://linkedin.com/in/arthurdiegopereira">**LinkedIn**</a>
 
-- 😄 Gostou? Te ajudei com algo? Que tal me <a href="https://mepagaumcafe.com.br/arthurdiegopereira/">**pagar um café?**</a> ☕
+- 😄 Gostou? Te ajudei com algo? Que tal me <a href="https://api-gateway.c6bank.info/v1/payment/add0fc18-7658-4f1c-9dcb-7506b8e6a9ca">**pagar um café?**</a> ☕
 
 <h3>Minhas Redes Sociais</h3>
 <p>

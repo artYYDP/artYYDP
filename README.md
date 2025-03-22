@@ -15,7 +15,8 @@
 
 - 😄 Gostou? Te ajudei com algo? Que tal me **pagar um café?**</a> ☕
 
-<a href="https://www.buymeacoffee.com/arthurdiegopereira"><img src="https://img.buymeacoffee.com/button-api/?text=Me pague um café&emoji=☕&slug=arthurdiegopereira&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/arthurdiegopereira"><img src="https://img.buymeacoffee.com/button-api/?text=Me pague um café&emoji=☕&slug=arthurdiegopereira&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" width="170" 
+       height="37" /></a>
 
 <h3>Minhas Redes Sociais</h3>
 <p>

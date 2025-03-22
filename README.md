@@ -3,11 +3,11 @@
 
 - ✝️ Sou Cristão
 
-- 🔭 Trabalho na <a href="https://github.com/vert-brasil">**Vert**</a> como **Analista de BI SAS**
+- 🔭 Trabalho na [**Vert Analytics**](https://www.vertanalytics.com.br) como **Analista de BI SAS**
 
-- 🌱 Atualmente estou aprendendo **SAS Advanced Programming**, **SAS Advanced Job Execution** e **JavaScript (Vue)**
+- 🌱 Atualmente estou aprendendo **SAS Advanced Programming**, **SAS Advanced Job Execution**
 
-- 💬 Me pergunte sobre **SAS, Power BI, Qlick Sense, PHP, HTML, CSS, Javascript, SQL, Photoshop e Premiere**
+- 💬 Me pergunte sobre **SAS, HTML, CSS e Javascript**
 
 - 📫 Você me encontra através do email **arthur.diego.pereira@gmail.com**
 

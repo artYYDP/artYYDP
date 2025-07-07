@@ -43,5 +43,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artYYDP&theme=transparent&show_icons=true&hide=contribs,prs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artYYDP&repo=SAS-Geo&theme=dark)](https://github.com/artYYDP/SAS-Geo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artYYDP&repo=Amazing-SAS-JobExec&theme=dark)](https://github.com/artYYDP/Amazing-SAS-JobExec)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artYYDP&repo=Advanced-Filters-SAS-VA&theme=dark)](github.com/artYYDP/Advanced-Filters-SAS-VA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artYYDP&repo=sas-viya-codes&theme=dark)](https://github.com/artYYDP/sas-viya-codes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artYYDP&repo=SAS-Geo&theme=dark)](github.com/artYYDP/SAS-Geo)

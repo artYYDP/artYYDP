@@ -24,16 +24,15 @@
 
 <h3>Minhas Redes Sociais</h3>
 <p>
-<a href="https://www.linkedin.com/in/arthurdiegopereira/" target="_blank" rel="noreferrer"><img src = "hhttps://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/LinkedIn.svg"" /></a>
-<a href="https://www.instagram.com/arthurdiegopereira/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/arthurdiegopereira/" target="_blank" rel="noreferrer"><img src = "https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/LinkedIn.svg" height="25"/></a>
+<a href="https://www.instagram.com/arthurdiegopereira/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>
 </p>
 <h3>Linguagens e Ferramentas</h3>
 <p>
 <img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/SAS.svg" alt="SAS logo" title="SAS" height="25" />
 <img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/SASViya.svg" alt="SAS logo" title="SAS Viya" height="25" />
-<img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/Excel.svg" alt="Excel"  height="25" />
-<img src="" alt="PowerBI logo" title="PowerBI" height="25" />
-<img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/PowerBI.svg" alt="QlikSense logo" title="QlikSense" height="25" />
+<img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/PowerBI.svg" alt="PowerBI logo" title="PowerBI" height="25" />
+<img src="https://img.shields.io/badge/Qlik-Icon?style=for-the-badge&logo=qlik&logoColor=%23009c4d&color=282C34" alt="QlikSense logo" title="QlikSense" height="25" />
 <img src="https://img.shields.io/badge/Python-Icon?style=for-the-badge&logo=python&color=282C34" alt="Python logo" title="Python" height="25" />
 <img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/MySQL.svg" alt="MySQL" height="25" />
 <img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/PostgreSQL.svg" alt="PostgreSQL" height="25" />

@@ -35,9 +35,9 @@
 <img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/power-bi.png" alt="PowerBI logo" title="PowerBI" height="35" />
 <img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/qlik.png" alt="QlikSense logo" title="QlikSense" height="35" />
 <img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/python.png" alt="Python logo" title="Python" height="35" /><br>
-<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/html.png" alt="HTML5 logo" title="HTML5" height="35" />
-<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/css.png" alt="CSS3 logo" title="CSS3" height="35" />
-<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/js.png" alt="JavaScript logo" title="JavaScript" height="35" />
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/html5.png" alt="HTML5 logo" title="HTML5" height="35" />
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/css3.png" alt="CSS3 logo" title="CSS3" height="35" />
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/javascript.png" alt="JavaScript logo" title="JavaScript" height="35" />
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artYYDP&theme=transparent&show_icons=true&hide=contribs,prs)

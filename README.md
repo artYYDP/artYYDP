@@ -1,33 +1,35 @@
-<h1>👨‍💻 Sobre mim</h1>
-<h3>Sou Analista de Business Intelligence e Desenvolvedor</h3>
+<h1>👨‍💻 About Me</h1>
+<h3>I'm a Business Intelligence Analyst and Developer</h3>
 
-- ✝️ Sou Cristão
+- ✝️ I'm Christian
 
-- 🔭 Trabalho na [**Vert Analytics**](https://www.vertanalytics.com.br) como **Analista de BI SAS**
+- 🔭 I work at [**Vert Analytics**](https://www.vertanalytics.com.br) as a **SAS BI Analyst**
 
-- 🌱 Atualmente estou aprendendo **SAS Advanced Programming**, **SAS Advanced Job Execution**
+- 🌱 Currently learning **SAS Advanced Programming**, **SAS Advanced Job Execution**
 
-- 💬 Me pergunte sobre **SAS, HTML, CSS e Javascript**
+- 👨‍💻 Creator of **Amazing SAS Job Execution**
 
-- 📫 Você me encontra através do email **arthur.diego.pereira@gmail.com**
+- 💬 Ask me about **SAS Job Execution, HTML, CSS, and Javascript**
 
-- 📄 Sobre minhas experiências, acesse o meu <a href="https://linkedin.com/in/arthurdiegopereira">**LinkedIn**</a>
+- 📫 You can reach me at **arthur.diego.pereira@gmail.com**
 
-- 😄 Gostou? Te ajudei com algo? Que tal me **pagar um café?**</a> ☕
+- 📄 For more about my experience, visit my <a href="https://linkedin.com/in/arthurdiegopereira">**LinkedIn**</a>
+
+- 😄 Did you like it? Did I help you with something? How about **buying me a coffee?** ☕
 
 <details>
-<summary>😉 PIX? Clique aqui!</summary>
+<summary>😉 PIX? Click here!</summary>
 
 ![QRCODE](/images/qrcode-pix.png)
 
 </details>
 
-<h3>Minhas Redes Sociais</h3>
+<h3>My Social Networks</h3>
 <p>
-<a href="https://www.linkedin.com/in/arthurdiegopereira/" target="_blank" rel="noreferrer"><img src = "https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/LinkedIn.svg" height="25"/></a>
+<a href="https://www.linkedin.com/in/arthurdiegopereira/" target="_blank" rel="noreferrer"><img src = "https://raw.githubusercontent.com/artYYDP/artYYDP/main/images/shields/linkedin.png" height="25"/></a>
 <a href="https://www.instagram.com/arthurdiegopereira/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>
 </p>
-<h3>Linguagens e Ferramentas</h3>
+<h3>Languages and Tools</h3>
 <p>
 <img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/SAS.svg" alt="SAS logo" title="SAS" height="25" />
 <img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/SASViya.svg" alt="SAS logo" title="SAS Viya" height="25" />

@@ -26,23 +26,18 @@
 
 <h3>My Social Networks</h3>
 <p>
-<a href="https://www.linkedin.com/in/arthurdiegopereira/" target="_blank" rel="noreferrer"><img src = "https://raw.githubusercontent.com/artYYDP/artYYDP/main/images/shields/linkedin.png" height="25"/></a>
-<a href="https://www.instagram.com/arthurdiegopereira/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>
+<a href="https://www.linkedin.com/in/arthurdiegopereira/" target="_blank" rel="noreferrer"><img src = "https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/linkedin.png" height="35"/></a>
+<a href="https://www.instagram.com/arthurdiegopereira/" target="_blank" rel="noreferrer"><img src = "https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/instagram.png" height="35"></a>
 </p>
 <h3>Languages and Tools</h3>
 <p>
-<img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/SAS.svg" alt="SAS logo" title="SAS" height="25" />
-<img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/SASViya.svg" alt="SAS logo" title="SAS Viya" height="25" />
-<img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/PowerBI.svg" alt="PowerBI logo" title="PowerBI" height="25" />
-<img src="https://img.shields.io/badge/Qlik-Icon?style=for-the-badge&logo=qlik&logoColor=%23009c4d&color=282C34" alt="QlikSense logo" title="QlikSense" height="25" />
-<img src="https://img.shields.io/badge/Python-Icon?style=for-the-badge&logo=python&color=282C34" alt="Python logo" title="Python" height="25" />
-<img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/MySQL.svg" alt="MySQL" height="25" />
-<img src="https://raw.githubusercontent.com/jobsrobson/jobsrobson/main/img/PostgreSQL.svg" alt="PostgreSQL" height="25" />
-<img src="https://img.shields.io/badge/PHP-Icon?style=for-the-badge&logo=php&color=282C34" alt="PHP logo" title="PHP" height="25" />
-<img src="https://img.shields.io/badge/HTML-Icon?style=for-the-badge&logo=html5&color=282C34" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS-Icon?style=for-the-badge&logo=css3&logoColor=%232d53e5&color=282C34" alt="CSS3 logo" title="CSS3" height="25" />
-<img src="https://img.shields.io/badge/Javascript-Icon?style=for-the-badge&logo=javascript&color=282C34" alt="JavaScript logo" title="JavaScript" height="25" />
-<img src="https://img.shields.io/badge/VSCode-Icon?style=for-the-badge&logo=visualstudiocode&logoColor=%232e7db6&color=282C34" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/sas-viya.png" alt="SAS logo" title="SAS" height="35" />
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/power-bi.png" alt="PowerBI logo" title="PowerBI" height="35" />
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/qlik.png" alt="QlikSense logo" title="QlikSense" height="35" />
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/python.png" alt="Python logo" title="Python" height="35" /><br>
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/html.png" alt="HTML5 logo" title="HTML5" height="30" />
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/css.png" alt="CSS3 logo" title="CSS3" height="30" />
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/js.png" alt="JavaScript logo" title="JavaScript" height="30" />
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artYYDP&theme=transparent&show_icons=true&hide=contribs,prs)

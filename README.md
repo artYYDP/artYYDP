@@ -5,15 +5,9 @@
 
 - 🔭 I work at [**Vert Analytics**](https://www.vertanalytics.com.br) as a **SAS BI Analyst**
 
-- 🌱 Currently learning **SAS Advanced Programming**, **SAS Advanced Job Execution**
-
-- 👨‍💻 Creator of **Amazing SAS Job Execution**
-
-- 💬 Ask me about **SAS Job Execution, HTML, CSS, and Javascript**
+- 💬 Ask me how I build and automate data analytics solutions using **SAS Job Execution, HTML, CSS, and JavaScript**.
 
 - 📫 You can reach me at **arthur.diego.pereira@gmail.com**
-
-- 📄 For more about my experience, visit my <a href="https://linkedin.com/in/arthurdiegopereira">**LinkedIn**</a>
 
 - 😄 Did you like it? Did I help you with something? How about **buying me a coffee?** ☕
 
@@ -31,13 +25,13 @@
 </p>
 <h3>Languages and Tools</h3>
 <p>
-<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/sas-viya.png" alt="SAS logo" title="SAS" height="35" />
-<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/power-bi.png" alt="PowerBI logo" title="PowerBI" height="35" />
-<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/qlik.png" alt="QlikSense logo" title="QlikSense" height="35" />
-<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/python.png" alt="Python logo" title="Python" height="35" /><br>
-<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/html5.png" alt="HTML5 logo" title="HTML5" height="35" />
-<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/css3.png" alt="CSS3 logo" title="CSS3" height="35" />
-<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/javascript.png" alt="JavaScript logo" title="JavaScript" height="35" />
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/sas-viya.png" alt="SAS logo" title="SAS" height="35">
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/power-bi.png" alt="PowerBI logo" title="PowerBI" height="35">
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/qlik.png" alt="QlikSense logo" title="QlikSense" height="35">
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/python.png" alt="Python logo" title="Python" height="35"><br>
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/html5.png" alt="HTML5 logo" title="HTML5" height="35">
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/css3.png" alt="CSS3 logo" title="CSS3" height="35">
+<img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/javascript.png" alt="JavaScript logo" title="JavaScript" height="35">
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artYYDP&theme=transparent&show_icons=true&hide=contribs,prs)

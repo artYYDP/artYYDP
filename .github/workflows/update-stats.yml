@@ -27,6 +27,15 @@ jobs:
         with:
           ref: main
 
+      - name: Generate language percentages
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
+        with:
+          card: top-langs
+          options: username=artYYDP&theme=transparent&layout=compact&langs_count=20&size_weight=1&count_weight=0
+          path: images/stats/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: 'true'
+
       - name: Generate GitHub stats
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
         with:
@@ -72,7 +81,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: 'true'
 
-      # Publish only after all five cards have been generated successfully.
+      # Publish only after all cards have been generated successfully.
       - name: Commit updated cards
         shell: bash
         run: |

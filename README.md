@@ -34,6 +34,8 @@
 <img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/javascript.png" alt="JavaScript logo" title="JavaScript" height="35">
 </p>
 
+![Most Used Languages](./images/stats/top-languages.svg)
+
 ![GitHub Stats](./images/stats/github-stats.svg)
 
 [![Amazing-SAS-JobExec](./images/stats/amazing-sas-jobexec.svg)](https://github.com/artYYDP/Amazing-SAS-JobExec)

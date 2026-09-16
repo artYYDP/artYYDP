@@ -34,9 +34,9 @@
 <img src="https://raw.githubusercontent.com/artYYDP/artYYDP/refs/heads/main/images/shields/javascript.png" alt="JavaScript logo" title="JavaScript" height="35">
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artYYDP&theme=transparent&show_icons=true&hide=contribs,prs)
+![GitHub Stats](./images/stats/github-stats.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artYYDP&repo=Amazing-SAS-JobExec&theme=dark)](https://github.com/artYYDP/Amazing-SAS-JobExec)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artYYDP&repo=Advanced-Filters-SAS-VA&theme=dark)](https://github.com/artYYDP/Advanced-Filters-SAS-VA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artYYDP&repo=sas-viya-codes&theme=dark)](https://github.com/artYYDP/sas-viya-codes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artYYDP&repo=SAS-Geo&theme=dark)](https://github.com/artYYDP/SAS-Geo)
+[![Amazing-SAS-JobExec](./images/stats/amazing-sas-jobexec.svg)](https://github.com/artYYDP/Amazing-SAS-JobExec)
+[![Advanced-Filters-SAS-VA](./images/stats/advanced-filters-sas-va.svg)](https://github.com/artYYDP/Advanced-Filters-SAS-VA)
+[![sas-viya-codes](./images/stats/sas-viya-codes.svg)](https://github.com/artYYDP/sas-viya-codes)
+[![SAS-Geo](./images/stats/sas-geo.svg)](https://github.com/artYYDP/SAS-Geo)

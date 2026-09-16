@@ -1,9 +1,9 @@
 <h1>👨‍💻 About Me</h1>
-<h3>I'm a Business Intelligence Analyst and Developer</h3>
+<h3>I'm a SAS Developer and Specialist Business Intelligence</h3>
 
 - ✝️ I'm Christian
 
-- 🔭 I work at [**Vert Analytics**](https://www.vertanalytics.com.br) as a **SAS BI Analyst**
+- 🔭 I work at [**Vert Analytics**](https://www.vertanalytics.com.br) as a **SAS Developer and BI Analyst**
 
 - 💬 Ask me how I build and automate data analytics solutions using **SAS Job Execution, HTML, CSS, and JavaScript**.
 
